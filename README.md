@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/tron.gif" width="100%" alt="TRON Banner">
+  <img src="assets/Red Bull Art GIF by G1ft3d.gif" width="100%" alt="TRON Banner">
 </p>
+
+<p align="center">
+   <img src="assets/Lizard Hello GIF.gif" width="180">
+<p>
 
 <h1 align="center">Hi 👋 I'm TamaDev</h1>
 

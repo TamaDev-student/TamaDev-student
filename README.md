@@ -93,7 +93,7 @@ Figma
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TamaDev-student&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamaDev-student&theme=tokyonight" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&layout=compact&theme=tokyonight&hide_border=true"/>
 

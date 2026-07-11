@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="assets/banner.gif"
+       width="100%"
+       height="320"
+       style="object-fit:cover;"
+       alt="Banner"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/lizard.gif" width="180" alt="Lizard"/>
+  <img src="assets/lizard.gif" width="120" alt="Lizard"/>
 </p>
 
 <h1 align="center">

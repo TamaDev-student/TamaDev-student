@@ -1,27 +1,19 @@
 <p align="center">
-  <img src="assets/banner.gif"
-       width="100%"
-       height="320"
-       style="object-fit:cover;"
-       alt="Banner"/>
+  <img src="assets/banner.gif" width="100%" alt="Banner">
 </p>
-
-<br>
 
 <p align="center">
-  <img src="assets/lizard.gif" width="120" alt="Lizard"/>
+  <img src="assets/lizard.gif" width="130" alt="Lizard">
 </p>
 
-<h1 align="center">
-  Hi 👋 I'm TamaDev
-</h1>
+<h1 align="center">Hi 👋 I'm TamaDev</h1>
 
 <h3 align="center">
-  💻 Software Engineering Student • Flutter • React • Laravel
+💻 Software Engineering Student • Flutter • React • Laravel
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Flutter+Developer;React+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Building+Flutter+Applications;Learning+React+%26+Laravel;Exploring+Cybersecurity;Code+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -48,7 +40,7 @@ Learning  : Cybersecurity • Clean Architecture
 ```
 
 - 🚀 Building useful applications every day.
-- 💙 Passionate about Mobile Development & UI/UX.
+- 💙 Passionate about Web Development, Mobile Development & UI/UX.
 - 🎯 Goal: Become a Full Stack Developer.
 - 🌶️ Fun Fact: I love Ayam Geprek.
 
@@ -68,17 +60,28 @@ Learning  : Cybersecurity • Clean Architecture
 
 <p align="center">
 
-<img height="170"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api?username=TamaDev-student&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TamaDev-student&theme=tokyonight&hide_border=true"/>
+<img width="65%"
+src="https://streak-stats.demolab.com?user=TamaDev-student&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
@@ -88,17 +91,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-stud
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TamaDev-student&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TamaDev-student&theme=tokyonight&row=1&column=6&margin-w=15"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=TamaDev-student&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -106,8 +100,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-stud
 
 # 📌 Current Focus
 
-- 🚧 Building Flutter applications.
-- ⚛️ Learning React ecosystem.
+- 🚧 Building Flutter Applications.
+- ⚛️ Learning React Ecosystem.
 - 🎨 Improving UI/UX Design.
 - 🔐 Exploring Cybersecurity.
 - 🤝 Open Source Collaboration.
@@ -127,9 +121,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-stud
 ---
 
 <p align="center">
-<img src="assets/lizard.gif" width="120"/>
+<img src="assets/lizard.gif" width="100">
 </p>
 
 <h3 align="center">
 💙 Keep Learning • Keep Building • Keep Improving 💙
 </h3>
+
+<p align="center">
+Made with ❤️ by TamaDev
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>

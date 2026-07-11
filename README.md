@@ -15,7 +15,9 @@ Hi 👋 I'm TamaDev
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Flutter+Developer;React+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner;Code+•+Build+•+Repeat" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome%20to%20my%20GitHub!;Flutter%20Developer;React%20Developer;Laravel%20Developer;UI%2FUX%20Enthusiast;Cybersecurity%20Learner;Code%20%7C%20Build%20%7C%20Repeat" alt="Typing SVG" />
+</p>
 </p>
 
 <p align="center">

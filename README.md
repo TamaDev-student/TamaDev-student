@@ -168,7 +168,7 @@ Figma
 </p>
 
 <h3 align="center">
-💙 Keep Learning • Keep Building • Keep Improving 💙
+ Keep Learning • Keep Building • Keep Improving
 </h3>
 
 <p align="center">

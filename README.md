@@ -32,8 +32,6 @@ Hi 👋 I'm TamaDev
 
 ## 👨‍💻 About Me
 
-<img align="right" width="180" src="assets/lizard.gif">
-
 - 🎓 Vocational High School Student (Software Engineering)
 - 🌍 Yogyakarta, Indonesia 🇮🇩
 - 💙 Passionate about Web Development & Mobile Apps
@@ -46,13 +44,52 @@ Hi 👋 I'm TamaDev
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Developer Setup
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+### 💻 Operating System
+
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
+
+Windows 11  
+WSL Ubuntu
+
+</td>
+
+<td align="center">
+
+### 🛠 IDE & Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github"/>
+
+VS Code  
+Android Studio  
+Figma
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,git,github,vscode,figma,androidstudio,linux,mysql"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,mysql&perline=10"/>
 
 </p>
+
+<p align="center">
+
+<sub>💙 Building modern Web & Mobile Applications every day.</sub>
+
+</p>
+
+---
 
 ---
 

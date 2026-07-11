@@ -85,12 +85,6 @@ Figma
 
 </p>
 
-<p align="center">
-
-<sub>💙 Building modern Web & Mobile Applications every day.</sub>
-
-</p>
-
 ---
 
 ---
@@ -178,7 +172,7 @@ Figma
 </h3>
 
 <p align="center">
-Made with ❤️ by TamaDev
+Made with by TamaDev
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>

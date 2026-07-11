@@ -161,12 +161,6 @@ Figma
 
 ---
 
-<p align="center">
-
-<img src="assets/lizard.gif" width="80">
-
-</p>
-
 <h3 align="center">
  Keep Learning • Keep Building • Keep Improving
 </h3>

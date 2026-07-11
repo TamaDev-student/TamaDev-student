@@ -2,10 +2,6 @@
   <img src="assets/banner.gif" width="900" alt="Banner">
 </p>
 
-<p align="center">
-  <img src="assets/lizard.gif" width="110" alt="Lizard">
-</p>
-
 <h1 align="center">
 Hi 👋 I'm TamaDev
 </h1>

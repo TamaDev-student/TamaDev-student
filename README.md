@@ -1,47 +1,66 @@
 <p align="center">
-  <img src="assets/Red Bull Art GIF by G1ft3d.gif" width="100%" alt="TRON Banner">
+  <img src="assets/banner.gif" width="100%" alt="Banner"/>
 </p>
 
-<p align="center">
-   <img src="assets/Lizard Hello GIF.gif" width="180">
-<p>
+<br>
 
-<h1 align="center">Hi 👋 I'm TamaDev</h1>
+<p align="center">
+  <img src="assets/lizard.gif" width="180" alt="Lizard"/>
+</p>
+
+<h1 align="center">
+  Hi 👋 I'm TamaDev
+</h1>
 
 <h3 align="center">
-💻 Software Engineering Student • Flutter • React • Laravel
+  💻 Software Engineering Student • Flutter • React • Laravel
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Flutter+Developer;React+Developer;Laravel+Developer;Always+Learning+New+Things..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Flutter+Developer;React+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TamaDev-student&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=TamaDev-student&style=for-the-badge&color=00F7FF"/>
+
+<img src="https://img.shields.io/github/followers/TamaDev-student?style=for-the-badge&color=00F7FF"/>
+
+<img src="https://img.shields.io/github/stars/TamaDev-student?style=for-the-badge&color=00F7FF"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Vocational High School Student (Software Engineering)
-- 🌍 From Yogyakarta, Indonesia 🇮🇩
-- 💙 Passionate about Web Development, Mobile Development & UI/UX
-- 🌱 Currently learning Flutter, Laravel, React & Cybersecurity
-- 🚀 Building projects every day
-- ⚡ Fun fact: I love Ayam Geprek 🌶️
+```yaml
+Name      : TamaDev
+Location  : Yogyakarta, Indonesia 🇮🇩
+Education : Vocational High School Student
+Major     : Software Engineering
+Focus     : Flutter • React • Laravel
+Learning  : Cybersecurity • Clean Architecture
+```
+
+- 🚀 Building useful applications every day.
+- 💙 Passionate about Mobile Development & UI/UX.
+- 🎯 Goal: Become a Full Stack Developer.
+- 🌶️ Fun Fact: I love Ayam Geprek.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,git,github,vscode,figma,androidstudio,linux,mysql&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,git,github,vscode,figma,androidstudio,linux,mysql&theme=dark"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -53,43 +72,45 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-stud
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=TamaDev-student&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TamaDev-student&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophy
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=TamaDev-student&theme=tokyonight&row=1&column=6&margin-w=15"/>
+
 </p>
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
-- 🚧 Building useful applications with Flutter & Laravel
-- 📚 Learning Clean Architecture
-- 🎨 Improving UI/UX Design
-- 🔐 Exploring Cybersecurity
-- 🤝 Open to collaborating on Open Source
+- 🚧 Building Flutter applications.
+- ⚛️ Learning React ecosystem.
+- 🎨 Improving UI/UX Design.
+- 🔐 Exploring Cybersecurity.
+- 🤝 Open Source Collaboration.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -102,5 +123,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-stud
 ---
 
 <p align="center">
-<i>"Keep learning. Keep building. Keep improving."</i> 🚀
+<img src="assets/lizard.gif" width="120"/>
 </p>
+
+<h3 align="center">
+💙 Keep Learning • Keep Building • Keep Improving 💙
+</h3>

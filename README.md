@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="1000" alt="Banner">
+  <img src="assets/banner.gif" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">
@@ -11,9 +11,7 @@ Hi 👋 I'm TamaDev
 </h3>
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome%20to%20my%20GitHub!;Flutter%20Developer;React%20Developer;Laravel%20Developer;UI%2FUX%20Enthusiast;Cybersecurity%20Learner;Code%20%7C%20Build%20%7C%20Repeat" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Flutter+Developer;React+Developer;Laravel+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner;Always+Learning+Something+New..." />
 </p>
 
 <p align="center">
@@ -28,82 +26,96 @@ Hi 👋 I'm TamaDev
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Vocational High School Student (Software Engineering)
-- 🌍 Yogyakarta, Indonesia 🇮🇩
-- 💙 Passionate about Web Development & Mobile Apps
-- 🎨 Interested in UI/UX Design
-- 🌱 Currently learning Flutter, React, Laravel & Cybersecurity
-- 🚀 Building useful applications every day
-- 🎯 Goal: Become a Full Stack Developer
+```yaml
+Name        : TamaDev
+Role        : Software Engineering Student
+Location    : Yogyakarta, Indonesia 🇮🇩
 
-<br clear="right"/>
+Passionate  :
+  - Flutter
+  - React
+  - Laravel
+  - UI/UX Design
+  - Cybersecurity
+
+Goal        : Become a Full Stack Developer
+```
 
 ---
 
-## ⚡ Developer Setup
+# 💻 fastfetch
 
-<table align="center">
-<tr>
+```bash
+Tamadev@github:~$ fastfetch
 
-<td align="center">
+OS          Windows 11 + WSL Ubuntu
+Laptop      HP Ryzen 5 5500U
+Editor      VS Code
+Design      Figma
 
-### 💻 Operating System
+Frontend    React + TailwindCSS
+Backend     Laravel
+Mobile      Flutter
 
-<img src="https://skillicons.dev/icons?i=windows,linux"/>
+Database    MySQL
+Language    JavaScript
+            TypeScript
+            Python
+            PHP
+            Dart
 
-Windows 11  
-WSL Ubuntu
+Learning    Cybersecurity
+Goal        Full Stack Developer 🚀
+```
 
-</td>
+---
 
-<td align="center">
-
-### 🛠 IDE & Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github"/>
-
-VS Code  
-Android Studio  
-Figma
-
-</td>
-
-</tr>
-</table>
-
-<br>
+# ⚡ Developer Setup
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,mysql&perline=10"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,dart,python,typescript,javascript,tailwind,mysql,git,github,vscode,figma,androidstudio,linux&theme=dark"/>
 
 </p>
 
 ---
 
+# 🏅 Featured Certifications
+
+| Certificate | Status |
+|-------------|--------|
+| Flutter Development | ✅ |
+| Laravel Fundamentals | ✅ |
+| React Basics | ✅ |
+| UI/UX Design | ✅ |
+| Python Programming | ✅ |
+| Cybersecurity Essentials | 🚧 |
+
+> 📂 **View All Certificates:** Coming Soon
+
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamaDev-student&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamaDev-student&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TamaDev-student&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=TamaDev-student&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -113,7 +125,7 @@ Figma
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -123,19 +135,23 @@ Figma
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 ```text
 📱 Building Flutter Applications
+
 ⚛️ Learning React Ecosystem
+
 🎨 Improving UI/UX Design
+
 🔐 Exploring Cybersecurity
+
 🤝 Open Source Collaboration
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -143,12 +159,10 @@ Figma
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Ganti dengan akunmu jika sudah punya -->
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Ganti dengan emailmu -->
 <a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -157,8 +171,20 @@ Figma
 
 ---
 
+# 💭 Favorite Quote
+
+> **"Keep learning. Keep building. Keep improving."** 🚀
+
+---
+
+<p align="center">
+
+<img src="assets/lizard.gif" width="90"/>
+
+</p>
+
 <h3 align="center">
- Keep Learning • Keep Building • Keep Improving
+⭐ Thanks for visiting my profile ⭐
 </h3>
 
 <p align="center">

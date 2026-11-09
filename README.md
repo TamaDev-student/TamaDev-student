@@ -69,8 +69,6 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TamaDev-student&theme=vision-friendly-dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6&hide=HTML,CSS" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=TamaDev-student&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>

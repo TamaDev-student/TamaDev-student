@@ -17,9 +17,9 @@
 
 - 🎓 Currently a student, learning software development
 - 🔭 Working on: **your current project**
-- 🌱 Learning: **JavaScript, React, Node.js** *(ganti sesuai kamu)*
+- 🌱 Learning: **JavaScript, React, Laravel, Flutter*
 - 💬 Ask me about: **web development, coding basics**
-- ⚡ Fun fact: **isi sendiri 😄**
+- ⚡ Fun fact: suka matcha
 
 ---
 
@@ -56,7 +56,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project 1](https://github.com/TamaDev-student/project-1) | Deskripsi singkat project | `HTML` `CSS` `JS` |
+| [Project 1](https://github.com/TamaDev-student/ukk-bankmini) | Deskripsi singkat project | `HTML` `CSS` `JS` |
 | [Project 2](https://github.com/TamaDev-student/project-2) | Deskripsi singkat project | `React` `Node.js` |
 | [Project 3](https://github.com/TamaDev-student/project-3) | Deskripsi singkat project | `PHP` `MySQL` |
 

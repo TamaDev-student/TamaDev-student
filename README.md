@@ -1,76 +1,15 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner TamaDev-student" width="100%" />
-</p>
+# 💫 About Me:
+- 🎓 Currently a student, learning software development<br>- 🔭 Student on: SMKN 1 Bantul <br>- 🌱 Learning: JavaScript, React, Node.js, Laravel, Flutter, Kotlin<br>- 💬 Ask me about: Fullstack Developer<br>- ⚡ Fun fact: my favorite drink is matcha latte
 
-<h1 align="center">Hi 👋, I'm Tama</h1>
-<h3 align="center">Student & Aspiring Developer 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TamaDev-student&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TamaDev-student?style=flat&logo=github" alt="Followers" />
-</p>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tama-Dev&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Tama-Dev&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tama-Dev&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Tama-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🎓 Currently a student, learning software development
-- 🔭 Working on: **your current project**
-- 🌱 Learning: **JavaScript, React, Laravel, Flutter*
-- 💬 Ask me about: **web development, coding basics**
-- ⚡ Fun fact: suka matcha
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github,vscode,figma" alt="Tech stack" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TamaDev-student&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project 1](https://github.com/TamaDev-student/ukk-bankmini) | Deskripsi singkat project | `HTML` `CSS` `JS` |
-| [Project 2](https://github.com/TamaDev-student/project-2) | Deskripsi singkat project | `React` `Node.js` |
-| [Project 3](https://github.com/TamaDev-student/project-3) | Deskripsi singkat project | `PHP` `MySQL` |
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/TamaDev-student"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

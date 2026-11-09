@@ -1,6 +1,6 @@
 <!-- BANNER (opsional, ganti nama file sesuai folder assets) -->
 <p align="center">
-  <img src="./assets/Jujutsu Kaisen Jjk GIF.gif" alt="TamaDev-student Banner" width="100%" height="80"% />
+  <img src="./assets/Jujutsu Kaisen Jjk GIF.gif" alt="TamaDev-student Banner" width="90%" height="100"% />
 </p>
 
 <h1 align="center">Hi, I'm Tama 👋</h1>

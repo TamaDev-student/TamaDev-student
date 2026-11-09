@@ -76,16 +76,5 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
-  </picture>
-</p>
-
 ---
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>

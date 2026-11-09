@@ -1,7 +1,3 @@
-<!-- BANNER (opsional, ganti nama file sesuai folder assets) -->
-<p align="center">
-  <img src="./assets/banner.png" alt="TamaDev-student Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Tama 👋</h1>
 <h3 align="center">Full-Stack Developer in the Making</h3>

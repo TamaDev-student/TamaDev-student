@@ -1,3 +1,7 @@
+<!-- BANNER (opsional, ganti nama file sesuai folder assets) -->
+<p align="center">
+  <img src="./assets/banner.png" alt="TamaDev-student Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Tama 👋</h1>
 <h3 align="center">Full-Stack Developer in the Making</h3>
@@ -67,10 +71,23 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TamaDev-student&theme=vision-friendly-dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaDev-student&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6&hide=HTML,CSS" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=TamaDev-student&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TamaDev-student/TamaDev-student/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
